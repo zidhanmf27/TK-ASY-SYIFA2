@@ -26,7 +26,7 @@ Aplikasi ini merupakan sistem pendaftaran siswa baru berbasis web yang dibangun 
 
 1. **Clone repository ini:**
    ```bash
-   git clone https://github.com/username/TK-ASY-SYIFA2.git
+   git clone https://github.com/zidhanmf27/TK-ASY-SYIFA2.git
    cd nama-repo
 2. **Composer Install**
    ```bash
