@@ -1,8 +1,10 @@
 # 🎓 Aplikasi Pendaftaran Online – TK ASY Syifa 2 Bandung
 
-![Laravel](https://img.shields.io/badge/Laravel-12.13.0-red)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4.1-blue)
-![Status](https://img.shields.io/badge/Status-Development-yellow)
+![Laravel](https://img.shields.io/badge/Laravel-12.13.0-ff2d20?logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1-38bdf8?logo=tailwindcss&logoColor=white)
+![License](https://img.shields.io/github/license/zidhanmf27/TK-ASY-SYIFA2?color=green)
+![Status](https://img.shields.io/badge/status-Development-yellow)
+![Made with](https://img.shields.io/badge/Made%20with-Laravel%20%26%20Tailwind-blueviolet)
 
 Aplikasi ini merupakan sistem pendaftaran siswa baru berbasis web yang dibangun menggunakan Laravel dan Tailwind CSS. Tujuannya adalah untuk mempermudah proses pendaftaran di TK ASY Syifa 2 Bandung secara digital dan efisien.
 
@@ -17,10 +19,9 @@ Aplikasi ini merupakan sistem pendaftaran siswa baru berbasis web yang dibangun 
 
 ## ⚙️ Teknologi yang Digunakan
 
-- **Framework:** Laravel 10+
-- **Frontend:** Blade Template + Tailwind CSS
+- **Framework:** Laravel 12+
+- **Frontend:** Tailwind CSS
 - **Database:** MySQL
-- **Fitur Tambahan:** Laravel Breeze / Jetstream (jika digunakan), Upload file, Autentikasi admin
 
 ## 🚀 Instalasi dan Menjalankan Proyek
 
